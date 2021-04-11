@@ -1,0 +1,17 @@
+.message {
+    padding: 0 10px;
+    margin: 10px;
+    max-width: 45%;
+    width: fit-content;
+}
+.message__user {
+    margin-left: auto;
+    color: white;
+    text-align: left;
+}
+.message__userCard {
+    background-image: linear-gradient(to right, #114ccb 0%, #367df7 100%);
+}
+.message__guestCard {
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
